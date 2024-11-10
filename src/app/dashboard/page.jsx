@@ -7,7 +7,7 @@ const GameInterface = () => {
  
   return (
     <div className=" dashboard">
-      <div className="custom-container h-screen p-4">
+      <div className="custom-container  p-4">
 
         {/* Header with logo */}
         <Heaader />
